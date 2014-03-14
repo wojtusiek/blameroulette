@@ -1,0 +1,12 @@
+{
+    "name": "michalmatoga/blameroulette",
+    "description": "Wanna play a little game with git commits?",
+    "keywords": ["git", "roulette", "commits"],
+    "homepage": "http://www.phpdoc.org",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4",
+        "teqneers/php-stream-wrapper-for-git": "dev-master"
+    }
+}
